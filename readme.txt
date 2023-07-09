@@ -1,2 +1,3 @@
 READ ME FILE FOR CI/CD
 EXECUTE THE EXISTING FILE
+execute the updates file
